@@ -50,7 +50,7 @@ This challenge, organized by ICASSP 2025, includes two tracks:
 ## Repository Contents
 
 - **`track1-notebook.ipynb`**: Solution to Track 1 problem statement.  
-- **`track2-notebook (2).ipynb`**: Solution to Track 2 problem statement.
+- **`track2-notebook.ipynb`**: Solution to Track 2 problem statement.
 
 ---
 
